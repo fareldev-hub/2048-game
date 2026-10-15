@@ -2,7 +2,6 @@
 
 Game puzzle sederhana berbasis HTML, CSS, dan JavaScript murni. Geser blok angka di papan 4×4, gabungkan angka yang sama, dan capai **2048**!
 
-![Preview Game](screenshot.png)
 
 ## Fitur
 
